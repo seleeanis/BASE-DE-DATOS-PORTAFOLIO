@@ -14,6 +14,7 @@
 | **Docente Encargado:**                 | Ing. René Guamán                                                               |
 
 </div>
+
 ## **Instrucciones**
 
 *Agregar la evidencia correspondiente para cada uno de los siguientes ejercicios.*
