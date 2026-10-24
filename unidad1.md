@@ -8,7 +8,7 @@
 <div align="center">
 
   <h3><span style="color:#ff66b2;"> —🔗 Tema 1: Modelo Entidad-Relación —</span></h3>
-  <a href="modelo-entidad-relacion.md">
+  <a href="mo-entidad-relacion.md">
     <img src="https://img.shields.io/badge/Abrir%20Modelo%20Entidad--Relaci%C3%B3n-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Modelo Entidad-Relación">
   </a>
 
