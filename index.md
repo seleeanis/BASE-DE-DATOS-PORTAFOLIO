@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="<img width="400" height="156" alt="image" src="https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/logo_unl.png" /> 
 
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/main/logo_unl.png" width="400" alt="Logo UNL">
+</p>
  <div align="center">
   <h1><span style="color:#ff66b2;">🏫 <strong>Universidad Nacional de Loja</strong></span></h1>
 </div>
