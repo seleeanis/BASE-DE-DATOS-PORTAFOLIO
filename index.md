@@ -5,16 +5,16 @@
   <h1><span style="color:#ff66b2;">🏫 <strong>Universidad Nacional de Loja</strong></span></h1>
 </div>
   <h2><span style="color:#ff99cc;">💻 Carrera:</span> <span style="color:green;">Computación</span></h2>
-  <h3><span style="color:#ffb6c1;">📘 Asignatura:</span> <span style="color:black;">Teoría de la Programación</span></h3>
+  <h3><span style="color:#ffb6c1;">📘 Asignatura:</span> <span style="color:black;">Base de Datos</span></h3>
 
   <hr style="width:60%; border:1px solid #ff99cc;">
 
-  <h3><span style="color:#ff66b2;">📅 Ciclo:</span> <span style="color:black;">1</span></h3>
+  <h3><span style="color:#ff66b2;">📅 Ciclo:</span> <span style="color:black;">3</span></h3>
   <h3><span style="color:#ff66b2;">🗓️ Período Académico:</span> <span style="color:black;">2025 - 2026</span></h3>
 
   <hr style="width:60%; border:1px solid #ff99cc;">
 
-  <h3><span style="color:#ff66b2;">👩🏻‍🏫 Docente:</span> <span style="color:black;">Ing. Lissette López</span></h3>
+  <h3><span style="color:#ff66b2;">👩🏻‍🏫 Docente:</span> <span style="color:black;">Ing. René Guaman</span></h3>
   <h3><span style="color:#ff66b2;">👩🏻‍🎓 Estudiante:</span> <span style="color:black;">Selena Castillo</span></h3>
 
   <br><br>
