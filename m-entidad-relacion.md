@@ -1,7 +1,7 @@
-
 <p align="center">
  
   **Aprendizaje Autónomo**
+  
 </p>
 
 | **Información General**                |                                                                                |
