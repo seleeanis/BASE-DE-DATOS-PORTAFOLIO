@@ -1,4 +1,8 @@
-**Aprendizaje Autónomo**
+
+<p align="center">
+ 
+  **Aprendizaje Autónomo**
+</p>
 
 | **Información General**                |                                                                                |
 |----------------------------------------|--------------------------------------------------------------------------------|
@@ -30,19 +34,25 @@ Una biblioteca registra libros y autores. Un libro puede tener varios autores y 
 
 Los clientes realizan pedidos que contienen varios platos con distinta cantidad. Los platos se agrupan en categorías. Cada pedido lo atiende un único mesero. El precio del plato debe registrarse tal como estaba al momento del pedido, aunque luego cambie.
 
-![Diagrama](media/image2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/main/image2.png" width="400" alt="Logo UNL">
+</p>
 
 ### **Ejemplo 3: Clínica Médica**
 
 Los pacientes solicitan citas; cada cita la atiende un médico a un paciente en fecha, hora y consultorio. De algunas citas se genera una receta que incluye medicamentos con dosis y duración. Cada médico pertenece a una especialidad.
 
-![Diagrama](media/image3.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/main/image3.png" width="400" alt="Logo UNL">
+</p>
 
 ### **Ejemplo 4: Sistema de Aerolínea**
 
 Una aerolínea opera vuelos (cada uno con número, fecha, origen y destino), cada vuelo lo realiza un avión. Los pasajeros realizan reservas para un vuelo específico, indicando asiento y tarifa pagada en el momento de la reserva.
 
-![Diagrama](media/image4.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/main/image4.png" width="400" alt="Logo UNL">
+</p>
 
 ### **Ejercicios Propuestos**
 
@@ -56,13 +66,17 @@ Una empresa discográfica necesita modelar los datos sobre sus diferentes recurs
 
 - Evento de promoción: los artistas participan en eventos de promoción para dar a conocer sus trabajos. En un evento de promoción pueden participar varios artistas. De un evento se almacena un identificador único, la fecha de celebración y el número de asistentes.
 
-![Diagrama](media/image5.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/main/image5.png" width="400" alt="Logo UNL">
+</p>
 
 #### **Ejercicio 6: Tienda Informática**
 
 Se desea crear una aplicación para la gestión de una tienda informática. La tienda dispone de una serie de productos que se venden a los clientes. De cada producto informático se desea guardar el código, descripción, precio y número de existencias. De cada cliente se desea guardar el código, nombre, apellidos, dirección y número telefónico. Un cliente puede comprar varios productos en la tienda y un mismo producto puede ser comprado por varios clientes. Cada vez que se compre un artículo quedará registrada la compra en la base de datos junto con la fecha en la que se compró el artículo. La tienda tiene contactos con varios proveedores que son los que suministran los productos. Un mismo producto puede ser suministrado por varios proveedores. De cada proveedor se desea guardar el código, nombres, apellidos, dirección, provincia y número de teléfono.
 
-![Diagrama](media/image6.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/main/image6.png" width="400" alt="Logo UNL">
+</p>
 
 #### **Ejercicio 7: Discos Musicales**
 
@@ -76,7 +90,9 @@ Se desea crear una aplicación para la gestión de una tienda informática. La t
 
 - Un disco tiene muchas canciones y una canción puede estar en varios discos. Interesa conocer la posición de una canción en un determinado disco
 
-![Diagrama](media/image7.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/main/image7.png" width="400" alt="Logo UNL">
+</p>
 
 #### **Ejercicio 8: Camiones**
 
@@ -86,7 +102,9 @@ Un camionero distribuye muchos paquetes, y un paquete sólo puede ser distribuid
 
 De los camiones que llevan los camioneros, interesa conocer la matrícula, modelo, tipo y potencia. Un camionero puede conducir diferentes camiones en fechas diferentes, y un camión puede ser conducido por varios camioneros.
 
-![Diagrama](media/image8.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/main/image8.png" width="400" alt="Logo UNL">
+</p>
 
 #### **Ejercicio 9: Veterinaria**
 
@@ -122,5 +140,7 @@ De los camiones que llevan los camioneros, interesa conocer la matrícula, model
 
   - El familiar es contacto de un solo propietario
 
-![Diagrama](media/image9.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/main/image9.png" width="400" alt="Logo UNL">
+</p>
 
