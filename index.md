@@ -43,14 +43,3 @@
   </div>
 
   <hr style="width:60%; border:1px solid #ff99cc;">
-
-  <h3><span style="color:#ff66b2;">📝 Conclusiones</span></h3>
-  <a href="conclusiones.md">
-    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
-  </a>
-  
-  <h3><span style="color:#ff66b2;">📚 Referencias</span></h3>
-<a href="referencias.md">
-    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
-  </a>
-  
