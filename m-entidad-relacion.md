@@ -1,8 +1,6 @@
-<p align="center">
- 
-  ## **Aprendizaje Autónomo**
-  
-</p>
+<div align="center">
+  <h1><span style="color:#000000; background-color:#ffccde; padding:6px 12px; border-radius:10px;">🧩 Aprendizaje Autónomo </span></h1>
+</div>
 
 | **Información General**                |                                                                                |
 |----------------------------------------|--------------------------------------------------------------------------------|
