@@ -1,6 +1,6 @@
 <div align="center">
   <h1><span style="color:#000000; background-color:#ffccde; padding:6px 12px; border-radius:10px;">🧩 Aprendizaje Autónomo </span></h1>
-</div>
+
 
 | **Información General**                |                                                                                |
 |----------------------------------------|--------------------------------------------------------------------------------|
@@ -13,6 +13,7 @@
 | **Materia:**                           | Base de Datos                                                                  |
 | **Docente Encargado:**                 | Ing. René Guamán                                                               |
 
+</div>
 ## **Instrucciones**
 
 *Agregar la evidencia correspondiente para cada uno de los siguientes ejercicios.*
