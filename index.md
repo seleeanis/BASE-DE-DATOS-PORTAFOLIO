@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="400" height="156" alt="image" src="https://github.com/user-attachments/assets/5eee4e4a-238f-498b-b565-e6ca948cec28" />" 
+  <img src="<img width="400" height="156" alt="image" src="https://github.com/user-attachments/assets/5eee4e4a-238f-498b-b565-e6ca948cec28" /> 
 
  <div align="center">
   <h1><span style="color:#ff66b2;">🏫 <strong>Universidad Nacional de Loja</strong></span></h1>
