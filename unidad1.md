@@ -25,7 +25,7 @@
   <br><br>
   <hr style="width:60%; border:1px solid #ff99cc;">
 
-  <a href="README.md">
+  <a href="index.md">
     <img src="https://img.shields.io/badge/%E2%AC%85%20Volver%20al%20Portafolio-ffb6c1?style=for-the-badge&logo=github&logoColor=white" alt="Volver al portafolio">
   </a>
 
