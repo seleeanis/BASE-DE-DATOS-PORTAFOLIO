@@ -1,4 +1,4 @@
-
+<div align="center">
   <h1><span style="color:#000000; background-color:#ffccde; padding:6px 12px; border-radius:10px;">🧩 Unidad 1</span></h1>
   <h3><span style="color:#ff66b2;">Modelado y Lenguaje de Bases de Datos</span></h3>
 </div>
