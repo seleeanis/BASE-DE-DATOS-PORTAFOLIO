@@ -26,7 +26,7 @@
 Una biblioteca registra libros y autores. Un libro puede tener varios autores y un autor varios libros. Los socios toman libros prestados; de cada préstamo interesan la fecha de retiro y la de devolución.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/main/image1.png" width="400" alt="Logo UNL">
+  <img src="https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/modelo-relacional1-biblioteca.png" width="400" alt="Logo UNL">
 </p>
 
 
