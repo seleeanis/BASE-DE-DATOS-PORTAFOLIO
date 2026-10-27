@@ -13,7 +13,7 @@
   </a>
 
   <h3><span style="color:#ff66b2;"> —📊 Tema 2: Modelo Relacional —</span></h3>
-  <a href="modelo-relacional.md">
+  <a href="m-relacional.md">
     <img src="https://img.shields.io/badge/Abrir%20Modelo%20Relacional-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Modelo Relacional">
   </a>
 
