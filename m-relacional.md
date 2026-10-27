@@ -43,7 +43,7 @@ Los clientes realizan pedidos que contienen varios platos con distinta cantidad.
 Los pacientes solicitan citas; cada cita la atiende un médico a un paciente en fecha, hora y consultorio. De algunas citas se genera una receta que incluye medicamentos con dosis y duración. Cada médico pertenece a una especialidad.
 
 <p align="center">
-  <img src="https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/modelo-relacional3-clinica.png" width="600" alt="Logo UNL">
+  <img src="https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/modelo-relacional3-clinica.png" width="700" alt="Logo UNL">
 </p>
 
 ### **Ejemplo 4: Sistema de Aerolínea**
@@ -51,7 +51,7 @@ Los pacientes solicitan citas; cada cita la atiende un médico a un paciente en 
 Una aerolínea opera vuelos (cada uno con número, fecha, origen y destino), cada vuelo lo realiza un avión. Los pasajeros realizan reservas para un vuelo específico, indicando asiento y tarifa pagada en el momento de la reserva.
 
 <p align="center">
-  <img src="https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/modelo-relacional4-aerolinea.png" width="600" alt="Logo UNL">
+  <img src="https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/modelo-relacional4-aerolinea.png" width="700" alt="Logo UNL">
 </p>
 
 ### **Ejercicios Propuestos**
