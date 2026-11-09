@@ -1,6 +1,5 @@
 <p align="center">
-  
-  # INFORME DE FIN DE UNIDAD
+ <h1> INFORME DE FIN DE UNIDAD</h1> 
 </p>
 
 
