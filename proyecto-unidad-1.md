@@ -57,7 +57,7 @@ A partir del enunciado se identificaron cinco entidades. El diagrama de la Figur
 - **Llaves primarias:** id_categoria, cédula, id_competencia e id_lugar; la entidad Participación se identifica por la combinación (cédula, id_competencia).
 
 <p align="center">
-  <img src="https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/modelo-relacional1-biblioteca.png" width="600" alt="Logo UNL">
+  <img src="https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/er-pr-u1.png" width="600" alt="Logo UNL">
 </p>
 
 
@@ -69,7 +69,11 @@ El modelo relacional se derivó del diagrama E-R aplicando las reglas de transfo
 
 Modelo relacional (la llave primaria está subrayada y la flecha va de la llave primaria a la llave foránea que la referencia):
 
-![Modelo relacional con las tablas Categoria, Gimnasta, Participacion, Competencia y Lugar y flechas de llave primaria a llave foránea](media/image2.png)
+
+<p align="center">
+  <img src="https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/er-pr-u1.png" width="600" alt="Logo UNL">
+</p>
+
 
 <p align="center"><em>Figura 2. Modelo relacional del sistema de gestión de competencias de la Escuela de Gimnasia Magys.</em></p>
 
