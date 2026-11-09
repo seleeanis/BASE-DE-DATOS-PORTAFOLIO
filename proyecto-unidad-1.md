@@ -56,7 +56,10 @@ A partir del enunciado se identificaron cinco entidades. El diagrama de la Figur
 
 - **Llaves primarias:** id_categoria, cédula, id_competencia e id_lugar; la entidad Participación se identifica por la combinación (cédula, id_competencia).
 
-![Diagrama Entidad-Relación de la Escuela de Gimnasia Magys con las entidades Categoría, Gimnasta, Participación, Competencia y Lugar](media/image1.png)
+<p align="center">
+  <img src="https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/modelo-relacional1-biblioteca.png" width="600" alt="Logo UNL">
+</p>
+
 
 <p align="center"><em>Figura 1. Diagrama Entidad-Relación del sistema de gestión de competencias de la Escuela de Gimnasia Magys.</em></p>
 
