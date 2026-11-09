@@ -71,7 +71,7 @@ Modelo relacional (la llave primaria está subrayada y la flecha va de la llave 
 
 
 <p align="center">
-  <img src="https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/er-pr-u1.png" width="600" alt="Logo UNL">
+  <img src="[https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/er-pr-u1.png](https://github.com/seleeanis/BASE-DE-DATOS-PORTAFOLIO/blob/main/mr-pr-u1.png)" width="600" alt="Logo UNL">
 </p>
 
 
