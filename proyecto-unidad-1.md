@@ -1,7 +1,6 @@
 <p align="center">
   
   # INFORME DE FIN DE UNIDAD
-
 </p>
 
 
