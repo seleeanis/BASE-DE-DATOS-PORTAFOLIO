@@ -23,7 +23,7 @@
   </a>
 
   <h3><span style="color:#ff66b2;"> —🚀 Proyecto de Unidad —</span></h3>
-  <a href="m-proyecto.md">
+  <a href="proyecto-unidad-1.md">
     <img src="https://img.shields.io/badge/Abrir%20Proyecto%20de%20Unidad-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto de Unidad">
   </a>
 
